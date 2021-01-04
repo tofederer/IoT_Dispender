@@ -1,7 +1,6 @@
-# IoT_Dispender
+# IoT_Dispender for Kete Project
 Source Code for the Prototyp with ESP32, Ardruino and Azure
-## Kete Semester Project 
-Overview Prototyp:
+## Overview Prototyp:
 ![Overview](./Overview.PNG)
 
 ## Configuration which has to be changed
