@@ -22,3 +22,4 @@ const int maxLiquidLevel = 300;
 // Ultrasonicsensor calibration
 const int aktivatePumpDistance = 20;
 ```
+ 
